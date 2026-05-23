@@ -1,3 +1,13 @@
+# 🎲 NEVRA RANDOMIZER
+
+> Randomness, style and interaction combined in a modern web experience.
+
+## 🌐 Live Preview
+
+🔗 https://devnvs.github.io/nevra-randomizer/
+
+---
+
 ## 📌 About The Project
 
 **NEVRA RANDOMIZER** is an interactive web application focused on randomness generation and user interaction through a modern and futuristic interface.
@@ -90,7 +100,7 @@ Open the `index.html` file in your browser.
 
 ## 📸 Preview
 
-<img width="616" height="864" alt="RANDOMIZER" src="https://github.com/user-attachments/assets/1af0cfb7-74fa-4e14-bac0-f91d4b9279d9" />
+<img width="616" height="864" alt="RANDOMIZER" src="https://github.com/user-attachments/assets/6edba63b-b439-4993-ab68-acb1cd7956d7" />
 
 
 ---
@@ -121,7 +131,5 @@ This project is licensed under the MIT License.
 ---
 
 # NEVRA RANDOMIZER © 2026
-
-```
 ::contentReference[oaicite:0]{index=0}
 ```
