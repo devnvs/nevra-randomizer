@@ -131,5 +131,3 @@ This project is licensed under the MIT License.
 ---
 
 # NEVRA RANDOMIZER © 2026
-::contentReference[oaicite:0]{index=0}
-```
